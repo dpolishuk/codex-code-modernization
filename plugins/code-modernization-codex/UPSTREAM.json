@@ -1,0 +1,25 @@
+{
+  "repository": "https://github.com/anthropics/claude-plugins-official",
+  "commit": "8f814f49002ff824e8a9ba43cf96112dc7f5948d",
+  "license": "Apache-2.0",
+  "files": {
+    "scripts/compare.py": "42da2625792868cc2f22df05bd6d26f05c7f6144159556ea41f5e2f41f1584fb",
+    "scripts/baseline_diff.py": "2d6da7d273b635ddafa1e06bfc936c1e539a565fc013bf3e6693176e94477352",
+    "scripts/trace_rules.py": "b2f81564351f3701855f367dc70a1299621bf516efefdef4f4b41d085ac3904b",
+    "scripts/uplift_checks.py": "9ce3103bc8040afc5e25e55cccc925c74959131cfcde02eeaa34f114193f7171",
+    "scripts/proof_pack.py": "c9657da61aad8c26407ef0ac6d3a31d4a7c3bdd831de4e1b784b5273d2c9c9b4",
+    "scripts/build_report.py": "769bbaccf3fc324bcc83c7d355de151978dba1dd59955eebead033e7726a8fd6",
+    "scripts/render_rules.py": "795dbe4e0ee891e5036c0253c963cd226fc61df9655373defd3dbd2aaf34d4c2",
+    "scripts/make_shards.py": "1462f990eab2e3f27f3ad7eb153392a8fa0669ec3a3fab74d28c6c4c3a842f2b",
+    "scripts/tests/test_proof_tools.py": "a59ba5c872a9eb599f214a0bec3e84e604835e962d84c5d40f905d5cbb3f7aa0",
+    "scripts/tests/test_report_next.py": "8b1b1e99ee1eaa9d6ec415cd2aa82bff88b326bb94c1a1bc6807f3372019b0d6",
+    "scripts/tests/test_compare_tolerance.py": "4e1c222c35b4614e1025cb0048e11e3125f08b62c8bd4f10a050d2f1a1f91bf9",
+    "scripts/tests/test_report_tools.py": "54a93ac5a9d532c8f7de85cf48aafde396897eaa17a75605efb6b20727970823",
+    "scripts/tests/test_proof_rules_run.py": "998531dfd33ac03e871544f3c3c9abe3ea462d8ef553c507df631efa9f0d9bd8",
+    "scripts/tests/test_rules_tools.py": "9abf8bf17571a12fdd57df689f15b17e70253b4f73d1c1cdbd6bd6bc5932e015",
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "assets/report-template.html": "6d19e82a969abffb1c74f7572da6db918aa4bdc94a3ec94c7bf2a70e9b5e2ced",
+    "assets/vendor/mermaid.min.js": "581ed7d74bd9048d0e3a91363927d72ef22942d7722546b27f7cc29e35390eb8",
+    "assets/vendor/LICENSE-mermaid.txt": "bcf76ea9df2a058c039327334d60778caca59da0d5aba6beb345dfd0afe370a6"
+  }
+}

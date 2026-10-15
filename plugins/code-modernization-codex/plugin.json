@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "code-modernization-codex",
+  "version": "0.1.0",
+  "description": "Evidence-driven legacy modernization: scope, discover, plan, build, and independently verify.",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Dmitry Polishuk",
+    "url": "https://github.com/dpolishuk"
+  },
+  "homepage": "https://github.com/dpolishuk/codex-code-modernization",
+  "repository": "https://github.com/dpolishuk/codex-code-modernization",
+  "keywords": [
+    "codex",
+    "modernization",
+    "migration",
+    "verification",
+    "skills"
+  ]
+}

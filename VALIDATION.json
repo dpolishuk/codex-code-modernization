@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-15",
+  "package_version": "0.1.0",
+  "python": "3.12.3",
+  "configuration": "CONFIG_VALIDATED",
+  "skills": [
+    "code-modernization-codex:modernize",
+    "code-modernization-codex:modernize-build",
+    "code-modernization-codex:modernize-discover",
+    "code-modernization-codex:modernize-plan",
+    "code-modernization-codex:modernize-verify"
+  ],
+  "upstream_commit": "8f814f49002ff824e8a9ba43cf96112dc7f5948d",
+  "upstream_files_unchanged": 18,
+  "tests": {
+    "upstream_passed": 259,
+    "adapter_passed": 20,
+    "total_passed": 279
+  },
+  "executable_demo": {
+    "status": "RUNTIME_VERIFIED",
+    "scope": "local Python integer-doubling fixture only",
+    "verdict": "PROVEN",
+    "unit_tests": 3,
+    "development_cases": 2,
+    "fresh_cases": 12,
+    "canary": "actual scratch mutation caused test failures"
+  },
+  "host": {
+    "marketplace_discovery": "RUNTIME_VERIFIED through plugin/list with cwds",
+    "manifest_and_five_skills": "RUNTIME_VERIFIED through plugin/read",
+    "marketplace_load_errors": [],
+    "installed": true,
+    "enabled_in_chat": true,
+    "model_driven_migration": "UNVERIFIED",
+    "fresh_chat_catalog": "RUNTIME_VERIFIED: all five skills advertised and readable",
+    "installed_validator": "CONFIG_VALIDATED: exit 0; 18 upstream files unchanged",
+    "installed_file_integrity": "34 installed package files matched the source package at installation"
+  },
+  "limits": [
+    "No target repository migrated",
+    "No production or external service checks",
+    "Source protection is a convention unless enforced separately",
+    "Pinned upstream tests emit benign ResourceWarning messages for unclosed fixture reads",
+    "Fresh-chat check verified skill discovery and reading, not a real migration"
+  ]
+}

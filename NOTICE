@@ -1,0 +1,7 @@
+Codex adaptation of Anthropic Code Modernization.
+Upstream: anthropics/claude-plugins-official, plugins/code-modernization
+Pinned revision: 8f814f49002ff824e8a9ba43cf96112dc7f5948d
+Upstream files in vendor/upstream are unchanged and retain Apache-2.0 licensing.
+Bundled Mermaid retains its own license in assets/vendor/LICENSE-mermaid.txt.
+The Codex skills, state adapter, tests and report are new work.
+This is an independent local adaptation, not an official Anthropic or OpenAI plugin.

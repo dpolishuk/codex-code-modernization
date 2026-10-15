@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Code Modernization for Codex</title>
+  <desc id="desc">Five stages: scope, discover, plan, build, verify. Source-cited rules, resumable work, and measurable behavior.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#172c46"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#4fd1c5"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b8c9e8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+  <path d="M1050 40l110 65v130l-110 65-110-65V105z" fill="none" stroke="#4fd1c5" stroke-opacity=".15" stroke-width="2"/>
+  <path d="M1050 78l77 46v92l-77 46-77-46v-92z" fill="#4fd1c5" fill-opacity=".04" stroke="#4fd1c5" stroke-opacity=".2"/>
+  <path d="M1018 168l23 23 45-49" fill="none" stroke="#5eead4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="66" fill="#5eead4" font-size="14" font-weight="700" letter-spacing="3">FIVE SKILLS · ONE EVIDENCE TRAIL</text>
+    <text x="64" y="137" fill="#f8fafc" font-size="54" font-weight="750" letter-spacing="-1.5">Code Modernization</text>
+    <text x="66" y="183" fill="#c4b5fd" font-size="30" font-weight="500">for Codex</text>
+    <text x="66" y="232" fill="#b4c3da" font-size="20">Understand the system. Preserve the behavior. Inspect the proof.</text>
+    <path d="M96 310H1178" stroke="url(#line)" stroke-opacity=".45" stroke-width="2"/>
+    <g font-size="18" font-weight="600">
+      <rect x="64" y="282" width="204" height="58" rx="12" fill="#102b3d" stroke="#2b6970"/><text x="85" y="318" fill="#5eead4">01</text><text x="124" y="318" fill="#eef5ff">Scope</text>
+      <rect x="300" y="282" width="204" height="58" rx="12" fill="#132c42" stroke="#355e78"/><text x="321" y="318" fill="#7dd3fc">02</text><text x="360" y="318" fill="#eef5ff">Discover</text>
+      <rect x="536" y="282" width="204" height="58" rx="12" fill="#1b2c49" stroke="#4a5c8d"/><text x="557" y="318" fill="#a5b4fc">03</text><text x="596" y="318" fill="#eef5ff">Plan</text>
+      <rect x="772" y="282" width="204" height="58" rx="12" fill="#252b4d" stroke="#685b97"/><text x="793" y="318" fill="#c4b5fd">04</text><text x="832" y="318" fill="#eef5ff">Build</text>
+      <rect x="1008" y="282" width="204" height="58" rx="12" fill="#2e294c" stroke="#8b70bc"/><text x="1029" y="318" fill="#d8b4fe">05</text><text x="1068" y="318" fill="#eef5ff">Verify</text>
+    </g>
+    <text x="66" y="383" fill="#90a3bf" font-size="14">SOURCE-CITED RULES</text><circle cx="263" cy="378" r="2" fill="#5eead4"/>
+    <text x="285" y="383" fill="#90a3bf" font-size="14">RESUMABLE CHECKPOINTS</text><circle cx="511" cy="378" r="2" fill="#a5b4fc"/>
+    <text x="533" y="383" fill="#90a3bf" font-size="14">DETERMINISTIC VERDICTS</text>
+  </g>
+</svg>

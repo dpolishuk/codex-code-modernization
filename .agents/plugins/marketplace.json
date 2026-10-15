@@ -1,0 +1,20 @@
+{
+  "name": "modernization-local",
+  "interface": {
+    "displayName": "Local Code Modernization"
+  },
+  "plugins": [
+    {
+      "name": "code-modernization-codex",
+      "source": {
+        "source": "local",
+        "path": "./plugins/code-modernization-codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
